@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/juanlopez251993/TODOS.github.io/static/css/main.3084f6f4.css",
-    "main.js": "/juanlopez251993/TODOS.github.io/static/js/main.260652cc.js",
-    "index.html": "/juanlopez251993/TODOS.github.io/index.html",
-    "main.3084f6f4.css.map": "/juanlopez251993/TODOS.github.io/static/css/main.3084f6f4.css.map",
-    "main.260652cc.js.map": "/juanlopez251993/TODOS.github.io/static/js/main.260652cc.js.map"
+    "main.css": "/juanlopez251993/TODOlist/gh-pages/static/css/main.3084f6f4.css",
+    "main.js": "/juanlopez251993/TODOlist/gh-pages/static/js/main.260652cc.js",
+    "index.html": "/juanlopez251993/TODOlist/gh-pages/index.html",
+    "main.3084f6f4.css.map": "/juanlopez251993/TODOlist/gh-pages/static/css/main.3084f6f4.css.map",
+    "main.260652cc.js.map": "/juanlopez251993/TODOlist/gh-pages/static/js/main.260652cc.js.map"
   },
   "entrypoints": [
     "static/css/main.3084f6f4.css",
