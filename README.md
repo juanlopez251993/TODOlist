@@ -1,4 +1,6 @@
+## This is a TODO Machine for any kind of list
 
+This is a proyect I develope while I was in my front-end bootcamp, I personilized everything for my personal learning, feel free to look at my code.
 
 ## Getting Started with Create React App
 
