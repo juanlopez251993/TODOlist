@@ -32,8 +32,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/juanlopez251993/TODOlist",
+  "homepage": "/TODOlist/",
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^4.0.0"
   }
 }
